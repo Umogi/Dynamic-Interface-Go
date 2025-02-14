@@ -1,7 +1,7 @@
 # Dynamic CLI
 
 ## Overview
-Dynamic CLI is a Go-based command-line interface designed to handle user input dynamically. It provides flexible functions for user interaction, including typed input collection and menu-based choices.
+Dynamic CLI is a `Go-based command-line` interface designed to handle user input dynamically. It provides flexible functions for user interaction, including typed input collection and menu-based choices.
 
 ## Features
 - **Dynamic Input Handling:** Accepts user input based on specified data types (string, int, bool).
